@@ -38,6 +38,8 @@ The main objectives of this project are:
 
 ---
 
+## 📁 Project Structure
+
 ```
 .
 ├── index.js # Entry point
@@ -108,5 +110,5 @@ This project is for learning and academic purposes.
 
 Mrutunjaya Panda
 
-## 📁 Project Structure
+
 
